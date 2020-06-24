@@ -14,7 +14,7 @@ public class test {
     {
         Product p= new Product("Miscellanes","plain","2.5");
         
-        Honey h= new Honey("Wildflower","500.0","Miscellanes","plain","2.5");
+        Honey h= new Honey("Wildflower","500.0","Miscellanes1111","plain","2.5");
         
         System.out.println(p.toString());
         System.out.println(h.toString());
