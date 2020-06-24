@@ -12,7 +12,7 @@ public class test {
     
     public static void main(String args[])
     {
-        Product p= new Product("Miscellanes","plain","2.5");
+        Product p= new Product("Miscellanesnew","plain","2.5");
         
         Honey h= new Honey("Wildflower","500.0","Miscellanes1111","plain","2.5");
         
